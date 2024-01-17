@@ -1,3 +1,7 @@
+#Os professores de Educação Física estão organizando uma seletiva para montar a equipe de natação. 
+#Para isso, eles convocaram os 7 melhores tempos da última competição e marcaram o tempo de cada um dos nadadores, na prova dos 25 metros, estilo livre.
+
+
 nadadores = []
 
 for i in range(7):
