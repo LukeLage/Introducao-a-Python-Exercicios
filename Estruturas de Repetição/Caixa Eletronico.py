@@ -6,6 +6,8 @@
 #• se o usuário errar a senha pela segunda vez, mostrar a mensagem: “Senha incorreta! Você ainda tem 1 tentativa.”
 #• se o usuário errar a senha novamente, mostrar a mensagem “Sua senha foi bloqueada! Por favor, dirija-se a um de nossos caixas.” e o programa deve ser encerrado.
 
+#Alteração: inseri a área do cliente colocar o nome para se tornar mais pessoal.
+
 
 tentativas = 3
 senha_conta = 123456
