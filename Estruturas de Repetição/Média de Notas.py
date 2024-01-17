@@ -1,3 +1,12 @@
+#Uma turma da disciplina de Banco de Dados possui 5 alunos. 
+#Construa um programa que leia duas notas e calcule a média aritmética de cada aluno. 
+#Ao fim, de acordo com a tabela abaixo, indique o percentual de alunos em Prova Final.
+#FAIXA RESULTADO
+#média < 2 Reprovado
+#2 ≤ média < 6 Prova Final
+#média ≥ 6 Aprovado
+
+
 medias = []
 
 for i in range (5):
