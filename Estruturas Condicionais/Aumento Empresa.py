@@ -1,3 +1,13 @@
+#Uma empresa concederá um aumento de salário aos seus funcionários, variável de acordo com o cargo, conforme a tabela abaixo:
+#Cargo Aumento(%)
+#Programador de Sistemas 30
+#Analista de Sistemas 20
+#Analista de Banco de Dados 15
+#Crie um programa que solicite ao usuário o salário e o cargo de um determinado funcionário. 
+#Na sequência, o programa deve calcular e imprimir o seu novo salário. 
+#Caso o cargo informado não esteja na tabela, o programa deve imprimir “Cargo inválido”.
+
+
 cargos_empresa = ['Cargos da Empresa: \n', '1 - Programador de Sistemas \n', '2 - Analista de Sistemas \n', '3 - Analista de Banco de dados']
 
 for cargo in cargos_empresa:
