@@ -1,3 +1,9 @@
+# Construa um programa que receba uma lista contendo a estatura dos alunos de uma escola. Crie um relatório que informe a:
+#a. menor estatura
+#b. maior estatura
+#c. média das estaturas informadas
+
+
 quantidade = int(input('Quantos alunos há na escola? \n'))
 estatura = []
 
