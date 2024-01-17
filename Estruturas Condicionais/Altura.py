@@ -1,3 +1,8 @@
+#Crie um programa que solicite ao usuário a informação de 3 estaturas. 
+#Caso existam estaturas iguais, o programa deve apresentar a mensagem “Há, pelo menos, 2 pessoas com a mesma estatura”. 
+#Caso contrário, o programa deve informar a maior estatura.
+
+
 altura1 = int(input('Digite a altura da primeira pessoa em cm: \n'))
 altura2 = int(input('Digite a altura da segunda pessoa em cm: \n'))
 altura3 = int(input('Digite a altura da terceira pessoa em cm: \n'))
